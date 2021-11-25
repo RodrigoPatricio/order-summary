@@ -1,4 +1,4 @@
-# ntf-preview-card
+# order-summary
 
 ## Project setup
 ```
